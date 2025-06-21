@@ -1,6 +1,8 @@
 E-commerce QuickShop
 🎯 Objetivo del Sitio
+
 E-commerce QuickShop es una plataforma web diseñada para ofrecer una experiencia de compra digital rápida, intuitiva y eficiente. Su propósito es permitir a los usuarios explorar productos, gestionarlos en un carrito de compras, realizar pagos seguros y llevar un control de sus compras y perfil personal.
+
 
 ⚙️ Funcionalidades Principales
 🛒 Catálogo de Productos
